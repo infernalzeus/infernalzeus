@@ -5,7 +5,7 @@ He has exhibited experience in dealing with clinical data, co-authoring a public
 
 Recognized on multiple occasions for his academic rigor, he has been awarded the NTSE scholarship from Govt. of India, and a Placement station Scholarship from BITS Pilani for his meritorious performances. He often has out-of-the-box approaches, suiting need of the hour, and maintains a composed demeanor while dealing with challenges, making him a great collaborator. He has exhibited his expertise through his position of Vice President at Enactus BPGC, and various teaching and mentorship positions throughout his career.
 
-- Interested in my paper?
+- :page_with_curl: Interested in my paper?
   [ML based Analysis to Identify Speech Features Relevant in Predicting Alzheimer’s](https://www.doi.org/10.1145/3532213.3532244)
 
 - 📫 Don't see code you want to see? Or got a question?
