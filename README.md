@@ -1,10 +1,11 @@
 <h3 align="center">Welcome to Yash Kumar's Github</h3>
-A passionate and driven researcher in the versatile field of Artificial Intelligence, with over two years of experience in optimisation and analysis of algorithms. Yash has demonstrated applications of Deep Neural Networks, Recurrent Neural Networks, Reinforcement Learning and Natural Language Processing through various domains and challenges.
+<div style='text-align: justify;'>
+A passionate and driven researcher in the versatile field of Artificial Intelligence, with over two years of experience in optimisation and analysis of algorithms. Yash has demonstrated applications of Deep Neural Networks, Recurrent Neural Networks, Reinforcement Learning and Natural Language Processing through various domains and challenges.<br><br>
 
 I have exhibited experience in dealing with clinical data, co-authoring a publication in the ACM Digital Library on ML-based analysis of Speech Features of Alzheimers' patients. I've also worked on developing a Reinforcement Learning agent (TD3-DDPG Double Q-learning) mimicking behaviour of VR-Cognitive Assessment of healthy and clinical populations at IOPPN Lab, King's College.
 
 Currently specialising in Natural Language Processing, I completed my dissertation on Ensemble methods for Spam Detection Classification. My former work includes Image Classification and Predictive Analysis, delving into CNNs(YOLOv3/v5) and RNNs(CuDNNLSTM).
-
+</div>
 
 - :page_with_curl: Interested in my paper?<br>
   [ML based Analysis to Identify Speech Features Relevant in Predicting Alzheimer’s](https://www.doi.org/10.1145/3532213.3532244)
