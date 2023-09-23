@@ -1,5 +1,5 @@
-<h1 align="center">Welcome to Yash Kumar's Github</h1>
-<h3 align="center">A passionate and driven researcher in the versatile field of Artificial Intelligence, with over two years of experience in optimisation and analysis of algorithms. Yash has demonstrated applications of Deep Neural Networks, Recurrent Neural Networks, Reinforcement Learning and Natural Language Processing through various domains and challenges.</h3>
+<h3 align="center">Welcome to Yash Kumar's Github</h3>
+A passionate and driven researcher in the versatile field of Artificial Intelligence, with over two years of experience in optimisation and analysis of algorithms. Yash has demonstrated applications of Deep Neural Networks, Recurrent Neural Networks, Reinforcement Learning and Natural Language Processing through various domains and challenges.
 
 He has exhibited experience in dealing with clinical data, co-authoring a publication in the ACM Digital Library on ML-based analysis of Speech Features of Alzheimers' patients. He has also worked on developing a Reinforcement Learning agent mimicking behaviour of VR-Cognitive Assessment of healthy and clinical populations at IOPPN Lab, King's College.
 
