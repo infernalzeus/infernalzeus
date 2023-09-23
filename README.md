@@ -1,14 +1,15 @@
 <h3 align="center">Welcome to Yash Kumar's Github</h3>
 A passionate and driven researcher in the versatile field of Artificial Intelligence, with over two years of experience in optimisation and analysis of algorithms. Yash has demonstrated applications of Deep Neural Networks, Recurrent Neural Networks, Reinforcement Learning and Natural Language Processing through various domains and challenges.
 
-He has exhibited experience in dealing with clinical data, co-authoring a publication in the ACM Digital Library on ML-based analysis of Speech Features of Alzheimers' patients. He has also worked on developing a Reinforcement Learning agent mimicking behaviour of VR-Cognitive Assessment of healthy and clinical populations at IOPPN Lab, King's College.
+I have exhibited experience in dealing with clinical data, co-authoring a publication in the ACM Digital Library on ML-based analysis of Speech Features of Alzheimers' patients. I've also worked on developing a Reinforcement Learning agent mimicking behaviour of VR-Cognitive Assessment of healthy and clinical populations at IOPPN Lab, King's College.
 
-Recognized on multiple occasions for his academic rigor, he has been awarded the NTSE scholarship from Govt. of India, and a Placement station Scholarship from BITS Pilani for his meritorious performances. He often has out-of-the-box approaches, suiting need of the hour, and maintains a composed demeanor while dealing with challenges, making him a great collaborator. He has exhibited his expertise through his position of Vice President at Enactus BPGC, and various teaching and mentorship positions throughout his career.
+Currently specialising in Natural Language Processing, I completed my dissertation on Ensemble methods for Spam Detection Classification. My former work includes Image Classification and Predictive Analysis, delving into CNNs(YOLOv3/v5) and RNNs(CuDNNLSTM).
 
-- :page_with_curl: Interested in my paper?
+
+- :page_with_curl: Interested in my paper?<br>
   [ML based Analysis to Identify Speech Features Relevant in Predicting Alzheimer’s](https://www.doi.org/10.1145/3532213.3532244)
 
-- 📫 Don't see code you want to see? Or got a question?
+- 📫 Don't see code you want to see? Or got a question?<br>
   **yashkumar1999@gmail.com**
 
 - 🌱 I’m currently learning: **AWS ML Specialty Certification**
