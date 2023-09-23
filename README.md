@@ -1,9 +1,9 @@
-<h1 align="center">Greetings Welcome to Yash Kumar's Github</h1>
+<h1 align="center">Greetings /nWelcome to Yash Kumar's Github</h1>
 <h3 align="center">A passionate and driven researcher in the versatile field of Artificial Intelligence, with over two years of experience in optimisation and analysis of algorithms. Yash has demonstrated applications of Deep Neural Networks, Recurrent Neural Networks, Reinforcement Learning and Natural Language Processing through various domains and challenges.</h3>
 
-- He has exhibited experience in dealing with clinical data, co-authoring a publication in the ACM Digital Library on ML-based analysis of Speech Features of Alzheimers' patients. He has also worked on developing a Reinforcement Learning agent mimicking behaviour of VR-Cognitive Assessment of healthy and clinical populations at IOPPN Lab, King's College.
+He has exhibited experience in dealing with clinical data, co-authoring a publication in the ACM Digital Library on ML-based analysis of Speech Features of Alzheimers' patients. He has also worked on developing a Reinforcement Learning agent mimicking behaviour of VR-Cognitive Assessment of healthy and clinical populations at IOPPN Lab, King's College.
 
-- Recognized on multiple occasions for his academic rigor, he has been awarded the NTSE scholarship from Govt. of India, and a Placement station Scholarship from BITS Pilani for his meritorious performances. He often has out-of-the-box approaches, suiting need of the hour, and maintains a composed demeanor while dealing with challenges, making him a great collaborator. He has exhibited his expertise through his position of Vice President at Enactus BPGC, and various teaching and mentorship positions throughout his career.
+Recognized on multiple occasions for his academic rigor, he has been awarded the NTSE scholarship from Govt. of India, and a Placement station Scholarship from BITS Pilani for his meritorious performances. He often has out-of-the-box approaches, suiting need of the hour, and maintains a composed demeanor while dealing with challenges, making him a great collaborator. He has exhibited his expertise through his position of Vice President at Enactus BPGC, and various teaching and mentorship positions throughout his career.
 
 - Interested in my paper? [ML based Analysis to Identify Speech Features Relevant in Predicting Alzheimer’s](https://www.doi.org/10.1145/3532213.3532244)
 
