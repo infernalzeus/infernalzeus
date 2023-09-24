@@ -1,6 +1,6 @@
 <h3 align="center">Welcome to Yash Kumar's Github</h3>
 <div style='text-align: justify;'>
-A passionate and driven researcher in the versatile field of Artificial Intelligence, with over two years of experience in optimisation and analysis of algorithms. Yash has demonstrated applications of Deep Neural Networks, Recurrent Neural Networks, Reinforcement Learning and Natural Language Processing through various domains and challenges.<br><br>
+"A passionate and driven researcher in the versatile field of Artificial Intelligence, with over two years of experience in optimisation and analysis of algorithms. Yash has demonstrated applications of Deep Neural Networks, Recurrent Neural Networks, Reinforcement Learning and Natural Language Processing through various domains and challenges"<br><br>
 
 I have exhibited experience in dealing with clinical data, co-authoring a publication in the ACM Digital Library on ML-based analysis of Speech Features of Alzheimers' patients. I've also worked on developing a Reinforcement Learning agent (TD3-DDPG Double Q-learning) mimicking behaviour of VR-Cognitive Assessment of healthy and clinical populations at IOPPN Lab, King's College.
 
@@ -13,7 +13,7 @@ Currently specialising in Natural Language Processing, I completed my dissertati
 - 📫 Don't see code you want to see? Or got a question for me? I'd be glad to connect with fellow collaborators<br>
   **yashkumar1999@gmail.com**
 
-- 🌱 I’m currently learning: **AWS ML Specialty Certification**
+- 🌱 I’m currently pursuing: **AWS ML Specialty Certification**
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
