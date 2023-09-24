@@ -15,14 +15,14 @@ Currently specialising in Natural Language Processing, I completed my dissertati
 
 - 🌱 I’m currently learning: **AWS ML Specialty Certification**
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
-<a href="https://twitter.com/infernalzeus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="infernalzeus" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/linkedin.com/in/yashkumar20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yashkumar20" height="30" width="30" /></a>
-<a href="https://www.youtube.com/c/infernalzeus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infernalzeus" height="30" width="30" /></a>
+<a href="https://twitter.com/infernalzeus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="infernalzeus" height="30" width="35" /></a>
+<a href="https://linkedin.com/in/linkedin.com/in/yashkumar20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/yashkumar20" height="30" width="35" /></a>
+<a href="https://www.youtube.com/c/infernalzeus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="infernalzeus" height="30" width="35" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Languages and Tools:</h4>
 
 [![Python](https://camo.githubusercontent.com/207fafb139e3211ecf407d70144f6358eca5136e86b73261cef968c0533d81b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373661622e7376673f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/207fafb139e3211ecf407d70144f6358eca5136e86b73261cef968c0533d81b4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373661622e7376673f6c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465) [![C](https://camo.githubusercontent.com/5403cba6c03d6751a2c9971f4e4cbe426e3586424cb4867dab59ee3a2517631c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f266c6f676f3d63266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/5403cba6c03d6751a2c9971f4e4cbe426e3586424cb4867dab59ee3a2517631c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f266c6f676f3d63266c6f676f436f6c6f723d7768697465) [![C++](https://camo.githubusercontent.com/286241670a3407ebb46152fe548106f7186fe59e37e8a699c31412333e0c4d3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532622532622d3030353939632e7376673f6c6f676f3d63253262253262266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/286241670a3407ebb46152fe548106f7186fe59e37e8a699c31412333e0c4d3c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532622532622d3030353939632e7376673f6c6f676f3d63253262253262266c6f676f436f6c6f723d7768697465)  [![Java](https://camo.githubusercontent.com/785690577a712f362a3c01f203367adf93ee502ecc2374201fd7d7a4ab7d0967/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)](https://camo.githubusercontent.com/785690577a712f362a3c01f203367adf93ee502ecc2374201fd7d7a4ab7d0967/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176612d4544384230303f266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465) 
 
