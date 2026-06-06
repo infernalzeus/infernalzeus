@@ -9,7 +9,7 @@ I have exhibited experience in dealing with clinical data, co-authoring a public
 </div>
 
 
-- 📫 Don't see code you want to see? Or got a question for me? I'd be glad to connect with fellow collaborators<br>
+- 📫 Want to maybe see more interesting code? Or got a question for me? I'd be glad to connect with fellow collaborators<br>
   **yashkumar1999@gmail.com**
 
 
