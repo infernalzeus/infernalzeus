@@ -2,6 +2,9 @@
 <div style='text-align: justify;'>
 "A passionate and driven researcher in the versatile field of Artificial Intelligence, with experience in optimisation and analysis of algorithms."<br><br>
 
+Check out my [Portfolio](infernalzeus.github.io) 
+
+
 I have exhibited experience in dealing with clinical data, co-authoring a publication in the ACM Digital Library on ML-based analysis of Speech Features of Alzheimers' patients. 
 - :page_with_curl: Interested in my paper?<br>
   [ML based Analysis to Identify Speech Features Relevant in Predicting Alzheimer’s](https://www.doi.org/10.1145/3532213.3532244)
