@@ -9,7 +9,7 @@ I have exhibited experience in dealing with clinical data, co-authoring a public
 </div>
 
 
-- 📫 Waant to collaborate?<br>
+- 📫 Want to collaborate?<br>
   **yashkumar1999@gmail.com**
 
 
